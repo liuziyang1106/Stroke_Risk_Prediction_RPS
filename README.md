@@ -1,1 +1,1 @@
-# Stroke_Risk_Prediction_RPS
+# Stroke_Risk_Prediction_System RPS
